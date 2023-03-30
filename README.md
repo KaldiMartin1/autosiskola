@@ -6,16 +6,16 @@
 # Kezdőlapon:
 
   Választási lehetőségek:
-- Gépjárművek szerint azon belül kategóriák között(Autó, Motor, Teherautó, Nehézpót, Targonca, B+E)
-- Oktatók
-- Egyéb tanfolyamok
-- Tanfolyamok időpontja
-- Rövid leírás hogy mit kínálunk, miért válassz minket
-- A lap alján megtalálható az elérhetőségünk
+- Kategóriák között(B, A,A1, B+E)
+- Oktatók (Az oktatók fülön megtaláljuk a cégnél dolgozó összes személyt képpel, leírással ellátva)
+- Egyéb tanfolyamok(Az egyéb tanfolyamok fülön megtalálható a taxis stb.)
+- Tanfolyamok időpontja (A tanfolyamok kezdete és vége ki van írva)
+- Rövid leírás hogy mit kínálunk, miért válassz minket(Rövid bemutatkozás cégről hogy miért válassza a FAbry és Kaldi autósiskolát)
+- A lap alján megtalálható az elérhetőségünk(Az elérhetőség fülön megtalálható a telefonszámunk, e-mail címünk, valamint pontos térképes rajz az autósiskolánk helyéről  )
 
 
 # Kategóriák oldal:
-- Rövid leírás a kategóriákról
+- Rövid leírás a kategóriákról(A kategórák oldalon  )
 - Adott joosítvány képzésének időpontja
 - Feltételek a jogosítványhoz
 
