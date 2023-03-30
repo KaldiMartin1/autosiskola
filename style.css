@@ -65,3 +65,40 @@
       }
     }
   }
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 24rem;
+  gap: 1rem;
+}
+
+input,
+select,
+textarea {
+  padding: 1,rem;
+  background: transparent;
+  border: 1px solid black;
+}
+
+textarea {
+  height: 6rem;
+}
+
+button {
+  width: 8rem;
+  padding: 1.4rem;
+  cursor: pointer;
+  background: grey;
+  color: white;
+}
+
+#content {
+  position: absolute;
+  width: 500px;
+  height: 400px;
+  top: 50%;
+  left: 50%;
+  margin-left: -250px;
+  margin-top: -200px;
+  }
