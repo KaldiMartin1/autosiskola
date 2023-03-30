@@ -24,7 +24,7 @@
 - Az egyes jogosítványok árát táblázatba szedve megtaláljuk
 
 
-# Képek oldal :#
+# Képek oldal :
 - Képek az oktatóinkról
 
 
