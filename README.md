@@ -6,7 +6,7 @@
 # Kezdőlapon:
 
   Választási lehetőségek:
-- Kategóriák között(B, A,A1, B+E)
+- Kategóriák között(B, A, A1, A2, AM, C, C+E, B+E, A1B)
 - Oktatók (Az oktatók fülön megtaláljuk a cégnél dolgozó összes személyt képpel, leírással ellátva)
 - Egyéb tanfolyamok(Az egyéb tanfolyamok fülön megtalálható a taxis stb.)
 - Tanfolyamok időpontja (A tanfolyamok kezdete és vége ki van írva)
@@ -15,9 +15,9 @@
 
 
 # Kategóriák oldal:
-- Rövid leírás a kategóriákról(A kategórák oldalon  )
-- Adott joosítvány képzésének időpontja
-- Feltételek a jogosítványhoz
+- Rövid leírás a kategóriákról(A kategórák oldalon választani lehet a kategóriák között és rövid leírást találunk az egyes kategóriákról   )
+- Kategóriát kiválasztva látjuk az adott joosítvány képzésének időpontját
+- Feltételek a jogosítványhoz(Az adott jogosítványhoz milyen feltételek  )
 
 
 # Árak oldal:
