@@ -17,15 +17,15 @@
 # Kategóriák oldal:
 - Rövid leírás a kategóriákról(A kategórák oldalon választani lehet a kategóriák között és rövid leírást találunk az egyes kategóriákról   )
 - Kategóriát kiválasztva látjuk az adott joosítvány képzésének időpontját
-- Feltételek a jogosítványhoz(Az adott jogosítványhoz milyen feltételek  )
+- Feltételek a jogosítványhoz(Az adott jogosítványhoz milyen feltételek szükségesek, valamint hogyan zajlika az elméleti oktatás  )
 
 
 # Árak oldal:
-- Az egyes jogosítványok árát táblázatba szedve megtaláljuk
+- Az egyes jogosítványok árát táblázatba szedve megtaláljuk(Az árak táblázatban kategórák szerint szétbontva megtaláljuk az árlistát)
 
 
 # Képek oldal :
-- Képek az oktatóinkról
+- Képek az oktatóinkról.
 
 
 # Jelentkezés oldal: 
