@@ -115,3 +115,141 @@ th{
 #kep{
   width: 80%;
 }
+
+
+.szovegKozepen {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+.kozep {
+  position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+
+.link{
+  color: white;
+  text-decoration: none;
+}
+
+.link:hover{
+  text-decoration: underline;
+  font-weight: bold;
+  text-transform: uppercase;
+
+
+}
+
+
+.szovegNarancs{
+  text-decoration: none;
+  color: black;
+}
+
+
+.szovegNarancs:hover{
+  text-decoration: none;
+  color: rgb(7, 255, 181);
+}
+
+
+.szovegNarancs2 {
+  color: white;
+
+
+}
+
+.szovegNarancs2:hover {
+  color: rgb(7, 255, 181);
+  text-decoration: underline;
+}
+
+
+.szovegDoboz{
+  border: solid 1px rgb(7, 255, 181);
+  text-decoration: none;
+  color: white;
+  background-color: rgb(7, 255, 181);
+  font-size: large;
+}
+
+
+
+.szovegDoboz:hover{
+  background-color: transparent;
+  color: rgb(7, 255, 181);
+}
+
+.szovegDoboz2{
+  border: solid 1px white;
+  text-decoration: none;
+  color: white;
+  font-size: large;
+}
+
+
+
+.szovegDoboz2:hover{
+  background-color: transparent;
+  color: rgb(7, 255, 181);
+  border: solid 1px rgb(7, 255, 181);
+}
+
+
+.kartya:hover{
+  background-color: rgb(238, 238, 238);
+}
+
+.footer{
+  background-color: deeppink;
+}
+
+.pink{
+  background-color: deeppink;
+}
+.tablek{
+  margin-bottom: 10%;
+}
+.add{
+  vertical-align:middle;
+}
+.animate__animated.animate__slideInUp {
+  --animate-duration: 5s;
+}
+
+.white{
+  color: white;
+}
+
+.felsorolas{
+  list-style-image: url("kepek/Logo_foodpanda_white.png");
+  height: 5px;
+  width: 5px;
+}
+#footer1{
+  margin-top: 26%;
+}
+#my{
+  margin-top: 15%;
+  background-color: deeppink;
+  width: 50%;
+}
+
+
+#belepes{
+  background-color: rgb(7, 255, 181);
+}
+#log{
+  color: black;
+}
+#elerhetoseg{
+  background-color: rgb(7, 255, 181);
+}
+.bemutatkozas{
+  width: 80%;
+}
