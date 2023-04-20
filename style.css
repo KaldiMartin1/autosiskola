@@ -146,28 +146,17 @@ transform: translate(-50%, -50%);
 }
 
 
-.szovegNarancs{
+.szovegfehér{
   text-decoration: none;
   color: black;
 }
 
 
-.szovegNarancs:hover{
+.szovegfehér:hover{
   text-decoration: none;
   color: white;
 }
 
-
-.szovegNarancs2 {
-  color: white;
-
-
-}
-
-.szovegNarancs2:hover {
-  color: white;
-  text-decoration: underline;
-}
 
 
 .szovegDoboz{
