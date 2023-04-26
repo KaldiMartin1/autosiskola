@@ -86,8 +86,8 @@ transform: translate(-50%, -50%);
 
 
 .szovegfehér:hover{
-  text-decoration: none;
-  color: white;
+  text-decoration: underline;
+  color: gray;
 }
 
 
